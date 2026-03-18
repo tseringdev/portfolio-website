@@ -14,7 +14,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 - JavaScript
 
 ## 🌐 Live Demo
-https://tseringdev.github.io/portfolio-website/
+https://tseringportfolio.netlify.app
 
 ## 📂 GitHub Repository
 https://github.com/tseringdev/portfolio-website
